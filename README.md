@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on Remote works
 - 📫 How to reach me `gentlejp1122@gmail.com`
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: Learn New Technology and Read Books
 
 <!---
