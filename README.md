@@ -112,4 +112,6 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yukikenzo&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukikenzo&theme=algolia&utcOffset=8)
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
